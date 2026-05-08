@@ -4,8 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamünaleyküm+World!;I+am+Mehmed+Akif+Arslan&font=Fira+Code&center=true&width=500&height=60&color=3776AB&size=28" alt="Typing Greeting" />
   </a>
   
-  <p><b>Junior Computer Engineering Student | AI Intern</b></p>
-
+  <p><b>Junior Computer Engineering Student @ Hacettepe University | AI Intern</b></p>
+  <p>📍 Ankara, Turkey</p>
   <br/>
   
   <h3>📑 Quote of the Day 📑</h3>
