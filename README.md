@@ -55,15 +55,17 @@
 ## 👽 Where to find me 👽
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mehmed-akif-arslan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p><i>Always open to discussing about tech, collaborating in projects, or anything else :D</i></p>
+  
+  <a href="(https://www.linkedin.com/in/mehmed-akif-arslan-338905294/">
+    <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:m.akif.dev58@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Drop_an-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<br/>
 <br/>
 
 ## ✨ Thank you for reading! ✨
