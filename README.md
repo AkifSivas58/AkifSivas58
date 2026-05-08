@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamünaleyküm+World!;I+am+Mehmed+Akif+Arslan&font=Fira+Code&center=true&width=500&height=60&color=3776AB&size=28" alt="Typing Greeting" />
   </a>
   
-  <p><b>Computer Engineering Student | AI Intern | Full-Stack Developer</b></p>
+  <p><b>Junior Computer Engineering Student | AI Intern</b></p>
 
 </div>
 
