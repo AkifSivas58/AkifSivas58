@@ -55,9 +55,9 @@
 ## 👽 Where to find me 👽
 
 <div align="center">
-  <p><i>Always open to discussing about tech, collaborating in projects, or anything else :D</i></p>
+  <p><i>Always open to discussing tech, collaborating on projects, or anything else :D</i></p>
   
-  <a href="(https://www.linkedin.com/in/mehmed-akif-arslan-338905294/">
+  <a href="https://www.linkedin.com/in/mehmed-akif-arslan-338905294/">
     <img src="https://img.shields.io/badge/Connect_on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
