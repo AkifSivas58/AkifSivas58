@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Selamünaleyküm+World!;I+am+Mehmed+Akif+Arslan&font=Fira+Code&center=true&width=500&height=60&color=3776AB&size=28" alt="Typing Greeting" />
   </a>
   
-  <p><b>Junior Computer Engineering Student | AI Intern</b></p>
+  <p><b>Computer Engineering Student | AI Intern | Full-Stack Developer</b></p>
 
 </div>
 
@@ -27,6 +27,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <br/>
+  <img src="https://i0.wp.com/darkintheboy.com/wp-content/uploads/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="250" alt="Anime Eye Coding" style="border-radius: 15px; margin-bottom: 15px;"/>
+  <br/>
 </div>
 
 <br/>
@@ -53,15 +56,9 @@
 </div>
 
 <br/>
-
-## 📄 My Favorite Quote 📄
+<br/>
 
 <div align="center">
-  <img src="https://media.tenor.com/8QzXkM0Z0-AAAAAC/edward-elric-chibi.gif" width="150" alt="Cute Fullmetal Alchemist"/>
-  <br/>
-  <br/>
-  <blockquote>
-    <p>"The best of deeds are those done regularly, even if they are few."<br><i>"Amellerin en hayırlısı, az da olsa devamlı olanıdır."</i></p>
-    <cite>— Prophet Muhammad (ﷺ)</cite>
-  </blockquote>
+  <img src="https://pin.it/76ipKWeyE" width="200" alt="Thorfinn"/>
+  <p><b>Thank you for reading! ✨</b></p>
 </div>
