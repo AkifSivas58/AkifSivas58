@@ -6,6 +6,14 @@
   
   <p><b>Junior Computer Engineering Student | AI Intern</b></p>
 
+  <br/>
+  
+  <h3>📑 Quote of the Day 📑</h3>
+  <blockquote>
+    <p>"For him who follows a path for seeking knowledge, Allah will ease for him the path to Paradise."<br><i>"Kim ilim tahsil etmek için bir yola girerse, Allah o kişiye cennetin yolunu kolaylaştırır."</i></p>
+    <cite>— Prophet Muhammad (ﷺ)</cite>
+  </blockquote>
+
 </div>
 
 <br/>
