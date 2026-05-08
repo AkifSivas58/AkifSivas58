@@ -37,9 +37,9 @@
 ## 🔥 GitHub Stats 🔥
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AkifSivas58&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkifSivas58&theme=react&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 <br/>
