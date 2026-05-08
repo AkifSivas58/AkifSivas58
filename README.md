@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br/>
-  <img src="https://i0.wp.com/darkintheboy.com/wp-content/uploads/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="250" alt="Anime Eye Coding" style="border-radius: 15px; margin-bottom: 15px;"/>
+  <img src="https://i0.wp.com/darkintheboy.com/wp-content/uploads/2014/02/tumblr_mvv8m3wzei1r9e2uvo1_500.gif" width="300" alt="Anime Eye Coding" style="border-radius: 15px; margin-bottom: 15px;"/>
   <br/>
 </div>
 
@@ -58,7 +58,8 @@
 <br/>
 <br/>
 
+## ✨ Thank you for reading! ✨
+
 <div align="center">
-  <img src="https://pin.it/76ipKWeyE" width="200" alt="Thorfinn"/>
-  <p><b>Thank you for reading! ✨</b></p>
+  <img src="assets/Thorfinn.gif" width="500" alt="Thorfinn"/>
 </div>
